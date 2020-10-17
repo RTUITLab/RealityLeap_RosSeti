@@ -4,3 +4,6 @@
 [submodule "RealityLeap_RosSeti_ReportBuilder"]
 	path = RealityLeap_RosSeti_ReportBuilder
 	url = https://github.com/RTUITLab/RealityLeap_RosSeti_ReportBuilder
+[submodule "Rosseti"]
+	path = Rosseti
+	url = https://github.com/Kubirill/Rosseti
