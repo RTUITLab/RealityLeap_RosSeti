@@ -1,0 +1,6 @@
+[submodule "RealityLeap_RosSeti_Android"]
+	path = RealityLeap_RosSeti_Android
+	url = https://github.com/RTUITLab/RealityLeap_RosSeti_Android
+[submodule "RealityLeap_RosSeti_ReportBuilder"]
+	path = RealityLeap_RosSeti_ReportBuilder
+	url = https://github.com/RTUITLab/RealityLeap_RosSeti_ReportBuilder
